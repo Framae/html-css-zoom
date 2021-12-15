@@ -72,7 +72,7 @@ main {
 
 
 footer {
-    background-color: gray;
+    background-color: rgb(78, 76, 76);
     position: fixed;
     bottom: 0;
     height: 100px;
@@ -86,7 +86,11 @@ footer {
 .column {
     flex-direction: column;
     align-items: center;
-    margin: 0 10px;
+    margin: 0 20px;
+}
+
+.s-b {
+    justify-content: space-between;
 }
 
 
