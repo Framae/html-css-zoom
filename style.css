@@ -93,8 +93,14 @@ footer {
     justify-content: space-between;
 }
 
-
+.ma-bo {
+    margin-bottom: 5px;
+}
 
 .size {
     font-size: 30px;
+}
+
+.green {
+    color: green;
 }
