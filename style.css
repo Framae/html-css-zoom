@@ -30,9 +30,10 @@ header {
 }
 
 .back-gray {
-    background-color: rgb(107, 106, 106);
-    padding: 5px;
+    background-color: #4a4a4a;
+    padding: 4px 10px;
     border-radius: 10px;
+    margin: 0 5px;
 }
 
 
